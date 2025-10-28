@@ -1,0 +1,16 @@
+# dcc -> includes components like graphs and date pickers   dash -> lib for creating web application
+
+# plotly.express -> used for creating interactive plots
+
+Callback function -> called automatically whenever the inputs of that function changes
+Callback
+-> key feature of Dash application
+-> allowing interactive and dynamic updates of the app's components based on user inputs
+
+inputs -> the components that trigger the Callback whenever value changes
+output -> the component that gets updated based on the inputs
+
+data analyzed by pandas
+-> data is stored in a dataframe
+-> data is analyzed using various pandas functions like groupby, melt, pivot_table, etc.
+-> data is then plotted using plotly express
